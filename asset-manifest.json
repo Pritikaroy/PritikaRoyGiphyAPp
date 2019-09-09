@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1ab5622.chunk.css",
-    "main.js": "/static/js/main.ddd55173.chunk.js",
-    "main.js.map": "/static/js/main.ddd55173.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.89939857.js",
-    "runtime~main.js.map": "/static/js/runtime~main.89939857.js.map",
-    "static/js/2.29da24f2.chunk.js": "/static/js/2.29da24f2.chunk.js",
-    "static/js/2.29da24f2.chunk.js.map": "/static/js/2.29da24f2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d2b87af5cbf693d4280279b28c97603c.js": "/precache-manifest.d2b87af5cbf693d4280279b28c97603c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b1ab5622.chunk.css.map": "/static/css/main.b1ab5622.chunk.css.map"
+    "main.css": "/PritikaRoyGiphyApp/static/css/main.b1ab5622.chunk.css",
+    "main.js": "/PritikaRoyGiphyApp/static/js/main.693445a6.chunk.js",
+    "main.js.map": "/PritikaRoyGiphyApp/static/js/main.693445a6.chunk.js.map",
+    "runtime~main.js": "/PritikaRoyGiphyApp/static/js/runtime~main.04e27773.js",
+    "runtime~main.js.map": "/PritikaRoyGiphyApp/static/js/runtime~main.04e27773.js.map",
+    "static/js/2.29da24f2.chunk.js": "/PritikaRoyGiphyApp/static/js/2.29da24f2.chunk.js",
+    "static/js/2.29da24f2.chunk.js.map": "/PritikaRoyGiphyApp/static/js/2.29da24f2.chunk.js.map",
+    "index.html": "/PritikaRoyGiphyApp/index.html",
+    "precache-manifest.c3f4fd255a5bb342e93d05b60780ffa0.js": "/PritikaRoyGiphyApp/precache-manifest.c3f4fd255a5bb342e93d05b60780ffa0.js",
+    "service-worker.js": "/PritikaRoyGiphyApp/service-worker.js",
+    "static/css/main.b1ab5622.chunk.css.map": "/PritikaRoyGiphyApp/static/css/main.b1ab5622.chunk.css.map"
   }
 }
