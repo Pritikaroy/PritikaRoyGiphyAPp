@@ -1,19 +1,18 @@
-import React from 'react';
-import { NavLink } from 'react-router-dom';
+// import React from 'react';
+// import GiphyItem from 'GiphyResults';
 
-const OptionsBar = () => {
-    return (
-        <nav className="OptBar">
-            <ul>
-                <li>
-                    <NavLink to="/search/puppies">Puppies</NavLink>
-                </li>
-                <li>
-                    <NavLink to="/search/babies">Babies</NavLink>
-                </li>
-            </ul>
-        </nav>
-    )
-}
+// const OptionsBar = props => {
+//     return (
+//         <nav className="OptBar">
+//             <ul>
+//                 <li>
+//                     <GiphyItem />
+                    
+//                 </li>
+                
+//             </ul>
+//         </nav>
+//     )
+// }
 
-export default OptionsBar;
+// export default OptionsBar;
