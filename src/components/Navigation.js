@@ -6,14 +6,8 @@ const Navigation = props => {
         <nav className="mainNav">
             <ul>
                 <li>
-                    <NavLink to="/search/dance" className="fas fa-search">Search</NavLink>
+                    <NavLink to="/search/dance" className="fas fa-search"></NavLink>
                 </li>
-                {/* <li>
-                    <NavLink to="/search/Puppies">Puppies</NavLink>
-                </li>
-                <li>
-                    <NavLink to="/search/Babies">Babies</NavLink>
-                </li> */}
             </ul>
         </nav>
     );

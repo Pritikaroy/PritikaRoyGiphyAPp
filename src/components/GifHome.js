@@ -5,20 +5,19 @@ import Navigation from "./Navigation";
 import Options from "./Options";
 
 
-const GifHome = (props, { match }) => {
-    let term = props.match.params.term;
+const GifHome = () => {
 
     return (
         <div>
             <h1>React Giphy Generator</h1>
             <p>
-                Click the <strong>Search</strong> icon to begin searching for gifs
+            Click the <strong>Search</strong> icon to begin searching for Gifs:
             </p>
             <Navigation />
 
-            <p>Or </p>
+            <p> <strong>OR</strong></p>
             
-            <p>you can opt for these cute options: </p>
+            <p>You can opt for these cute options: </p>
 
             <Options />
             

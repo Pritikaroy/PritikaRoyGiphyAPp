@@ -10,7 +10,7 @@ const GifList = (props, { match }) => {
 
     return (
         <div>
-            <h1>Search for you Gif:</h1>
+            <h2>Search for your Gif:</h2>
             <Form />
             <Navigation />
             <Options />
