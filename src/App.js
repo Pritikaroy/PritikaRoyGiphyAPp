@@ -18,7 +18,9 @@ class App extends Component {
           </Switch>
         </div>
         <footer>
-          <p><strong>Powered by GIPHY</strong></p>
+          {/* <p><strong>Powered by GIPHY</strong></p> */}
+          <p><i className="fas fa-battery-full"></i> by GIPHY and Made with <i className="fas fa-heart"></i></p>
+          <p classname="copyright">Copyright &copy; Pritika Roy</p>
         </footer>
       </HashRouter>
     );
