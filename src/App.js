@@ -17,6 +17,9 @@ class App extends Component {
             <Route component={ZeroResult} />
           </Switch>
         </div>
+        <footer>
+          <p><strong>Powered by GIPHY</strong></p>
+        </footer>
       </HashRouter>
     );
   }

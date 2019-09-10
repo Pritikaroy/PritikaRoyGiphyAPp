@@ -16,13 +16,13 @@ const GifHome = (props, { match }) => {
             </p>
             <Navigation />
 
-            <p>Or just </p>
+            <p>Or </p>
+            
+            <p>just opt for these cute option: </p>
 
             <Options />
             
             <GifResult term={term} />
-
-            
         </div>
     );
 };
