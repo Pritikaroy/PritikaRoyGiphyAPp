@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PritikaRoyGiphyApp/static/css/main.62a5b038.chunk.css",
-    "main.js": "/PritikaRoyGiphyApp/static/js/main.23374f98.chunk.js",
-    "main.js.map": "/PritikaRoyGiphyApp/static/js/main.23374f98.chunk.js.map",
+    "main.css": "/PritikaRoyGiphyApp/static/css/main.fddde00b.chunk.css",
+    "main.js": "/PritikaRoyGiphyApp/static/js/main.13691e98.chunk.js",
+    "main.js.map": "/PritikaRoyGiphyApp/static/js/main.13691e98.chunk.js.map",
     "runtime~main.js": "/PritikaRoyGiphyApp/static/js/runtime~main.04e27773.js",
     "runtime~main.js.map": "/PritikaRoyGiphyApp/static/js/runtime~main.04e27773.js.map",
     "static/js/2.29da24f2.chunk.js": "/PritikaRoyGiphyApp/static/js/2.29da24f2.chunk.js",
     "static/js/2.29da24f2.chunk.js.map": "/PritikaRoyGiphyApp/static/js/2.29da24f2.chunk.js.map",
     "index.html": "/PritikaRoyGiphyApp/index.html",
-    "precache-manifest.6ce691a2c94e14264b43441807bb5392.js": "/PritikaRoyGiphyApp/precache-manifest.6ce691a2c94e14264b43441807bb5392.js",
+    "precache-manifest.7b017e898300a1b69aac78df67876ad0.js": "/PritikaRoyGiphyApp/precache-manifest.7b017e898300a1b69aac78df67876ad0.js",
     "service-worker.js": "/PritikaRoyGiphyApp/service-worker.js",
-    "static/css/main.62a5b038.chunk.css.map": "/PritikaRoyGiphyApp/static/css/main.62a5b038.chunk.css.map",
-    "static/media/App.css": "/PritikaRoyGiphyApp/static/media/background.065417ab.jpg"
+    "static/css/main.fddde00b.chunk.css.map": "/PritikaRoyGiphyApp/static/css/main.fddde00b.chunk.css.map",
+    "static/media/App.css": "/PritikaRoyGiphyApp/static/media/background.abcfd29c.jpg"
   }
 }
