@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <HashRouter>
-        <div className="container">
+        <div className="wrapper container">
           <Switch>
             <Route exact path="/" component={GifHome} />
             <Route path="/search/:term" component={GifList} />

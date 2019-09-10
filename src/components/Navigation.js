@@ -6,7 +6,7 @@ const Navigation = props => {
         <nav className="mainNav">
             <ul>
                 <li>
-                    <NavLink to="/search/search" className="fas fa-search">Search</NavLink>
+                    <NavLink to="/search/dance" className="fas fa-search">Search</NavLink>
                 </li>
                 {/* <li>
                     <NavLink to="/search/Puppies">Puppies</NavLink>

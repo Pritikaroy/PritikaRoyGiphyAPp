@@ -18,11 +18,11 @@ const GifHome = (props, { match }) => {
 
             <p>Or </p>
             
-            <p>just opt for these cute option: </p>
+            <p>you can opt for these cute options: </p>
 
             <Options />
             
-            <GifResult term={term} />
+            <GifResult term="dance" />
         </div>
     );
 };

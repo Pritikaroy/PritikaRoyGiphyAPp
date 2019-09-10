@@ -11,8 +11,8 @@ class GifResult extends Component {
         loading: true
     };
 
-    componentDidMount(props) {
-        this.doSearch("Dance");
+    componentDidMount() {
+        this.doSearch(this.props.term);
     }
 
     componentWillReceiveProps(nextProps) {
