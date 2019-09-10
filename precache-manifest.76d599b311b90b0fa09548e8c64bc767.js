@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfc5b10492739b326caf6b310ce57d8d",
+    "revision": "a6bf9c6653ebff8ac2ef53f0c02a7bc3",
     "url": "/PritikaRoyGiphyApp/index.html"
   },
   {
-    "revision": "e1b9e388f4c23bb96e03",
+    "revision": "827aeb7c168e96d95312",
     "url": "/PritikaRoyGiphyApp/static/css/main.fddde00b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PritikaRoyGiphyApp/static/js/2.29da24f2.chunk.js"
   },
   {
-    "revision": "e1b9e388f4c23bb96e03",
-    "url": "/PritikaRoyGiphyApp/static/js/main.13691e98.chunk.js"
+    "revision": "827aeb7c168e96d95312",
+    "url": "/PritikaRoyGiphyApp/static/js/main.337ea630.chunk.js"
   },
   {
     "revision": "51ad9503eb432e30adf8",
